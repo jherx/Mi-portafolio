@@ -76,7 +76,7 @@
 {
   .site-footer [class^=col-]
   {
-    margin-bottom:30px
+    margin-bottom:50px
   }
 }
 @media (max-width:767px)
